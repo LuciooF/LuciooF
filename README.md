@@ -37,3 +37,4 @@
 - Portuguese (basic)
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=LucioF&color=blue)
